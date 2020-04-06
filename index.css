@@ -96,7 +96,9 @@ html,body{
 }
 .phoneprice{
     color: #f40000;
+
 }
 .phoneprice .preceIcon{
     font-size: 18px;
+    margin-left: 5px;
 }
